@@ -14,8 +14,7 @@ const CONFIG = {
     reply: 'Rất là vui vì được nhận quà từ nhquynh :v',
     mess: 'Tui biết mà 🥰',
     messDesc: 'Nếu như một ngày vbao thật sự bế tắc và mọi cánh cửa dường như đã khép lại,
-    thì hãy yên tâm rằng luôn có một người sẵn lòng san sẻ với m, it's me :v 
+    thì hãy yên tâm rằng luôn có một người sẵn lòng san sẻ với m, it is me :v 
     Chúc mọi thứ tốt đẹp và may mắn đến với m. Happy birthday!!',
     btnAccept: 'Okiiiii lun ♥',
-    messLink: 'https://nhquynh.tran' //link mess của các bạn. VD: /dinhkaito
 }
