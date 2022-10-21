@@ -1,20 +1,21 @@
 const CONFIG = {
-    titleWeb: "Gửi crush của tớ",
-    introTitle: 'Crush yêu dấu',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Gửi PVB",
+    introTitle: 'vbao iu dấu :v',
+    introDesc: `Hôm nay vốn dĩ là một ngày bình thường,
+    Nhưng từ khi thêm 1 người bạn mới là vbao
+    Thì nó đặc biệt hơn 1 xíuuu`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Thoát web là chấp nhận yêu tớ rồi nhé!!!',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    title: 'vbao thấy nhquynh dth hong?!? 🥰',
+    desc: 'Đừng thoát web nha!!!',
+    btnYes: 'dth muốn xỉu ♥',
+    btnNo: 'Không dth bằng vbao :3',
+    question: 'Hôm nay vbao có vui hong?',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me' //link mess của các bạn. VD: /dinhkaito
+    reply: 'Rất là vui vì được nhận quà từ nhquynh :v',
+    mess: 'Tui biết mà 🥰',
+    messDesc: 'Nếu như một ngày vbao thật sự bế tắc và mọi cánh cửa dường như đã khép lại,
+    thì hãy yên tâm rằng luôn có một người sẵn lòng san sẻ với m, it's me :v 
+    Chúc mọi thứ tốt đẹp và may mắn đến với m. Happy birthday!!',
+    btnAccept: 'Okiiiii lun ♥',
+    messLink: 'https://nhquynh.tran' //link mess của các bạn. VD: /dinhkaito
 }
